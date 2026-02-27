@@ -42,12 +42,11 @@
 </div>
 
 ###
-💜 My Stats :
+<h3 align="center">💜 My Stats 💜</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EmanShabaan123&theme=tokyonight&hide_border=true" />
 </p>
----
 <h3 align="center"> 🌐 Contact With Me</h3>
 
 ###
