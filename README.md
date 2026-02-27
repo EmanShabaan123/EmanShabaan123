@@ -57,6 +57,10 @@
   <a href="https://www.linkedin.com/in/eman-shabaan-5a434a37b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+
+  <a href="mailto:shabaaneman46@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" alt="Gmail" />
+  </a>
 </div>
 
 ###
