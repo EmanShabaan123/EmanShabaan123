@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I'm a Front-End Developer and a student at the Faculty of Computers and Artificial Intelligence, Helwan University.</h2>
+<h4 align="left">I'm a Front-End Developer and a student at the Faculty of Computers and Artificial Intelligence, Helwan University.</h4>
 
 ###
 
