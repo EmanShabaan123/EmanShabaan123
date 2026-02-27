@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">👩🏻‍💻 About Me<br><br>🎓 Computer Science student passionate about software development<br>💡 Interested in web development and system logic<br>📚 I'm currently learning front-end<br>🎯 Goals: Full-Stack Developer</p>
+<div  style="border: 2px solid rgb(189, 165, 8); padding: 5px; margin-bottom: 10px;">
+    <h3 align="left">👩🏻‍💻 About Me</h3>
+    <p align="left" >🎓 Computer Science student passionate about software development<br>💡 Interested in web development and system logic<br>📚 I'm currently learning front-end<br>🎯 Goals: Full-Stack Developer</p>
+</div>
 
 ###
 
@@ -32,11 +35,15 @@
 
 ###
 
-<h3 align="left">💡 Core Knowledge</h3>
+<div style="border: 2px solid rgb(189, 165, 8); 
+padding: 5px;">
+    <h3 align="left" >💡 Core Knowledge</h3>
 
-###
 
 <p align="left">🧠 Learned Problem Solving<br>💻 OOP<br>📚 Data Structures<br>🏆 Participated in ICPC Level 1</p>
+
+
+</div>"left">🧠 Learned Problem Solving<br>💻 OOP<br>📚 Data Structures<br>🏆 Participated in ICPC Level 1</p>
 
 ###
 
