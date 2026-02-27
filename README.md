@@ -13,8 +13,9 @@
 <div>
     <h3 align="left">👩🏻‍💻 About Me</h3>
     <p align="left" >🎓 Computer Science student passionate about software development<br>💡 Interested in web development and system logic<br>📚 I'm currently learning front-end<br>🎯 Goals: Full-Stack Developer</p>
+    ---
 </div>
----
+
 <h2 align="center">🛠️ Skills</h2>
 
 ###
