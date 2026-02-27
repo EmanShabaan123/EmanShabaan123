@@ -30,6 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EmanShabaan123/EmanShabaan123/output/snake.svg" alt="Snake animation" />
+
 
 ###
