@@ -35,7 +35,7 @@
 
 ###
 
-<div">
+<div>
     <h3 align="left" >💡 Core Knowledge</h3>
 
 <p align="left">🧠 Learned Problem Solving<br>💻 OOP<br>📚 Data Structures<br>🏆 Participated in ICPC Level 1</p>
