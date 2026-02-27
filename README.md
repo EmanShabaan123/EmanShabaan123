@@ -42,6 +42,7 @@
 </div>
 
 ###
+---
 <h3 align="center">💜 My Stats 💜</h3>
 
 <p align="center">
